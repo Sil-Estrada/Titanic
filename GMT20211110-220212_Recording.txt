@@ -1,0 +1,15 @@
+00:10:31	[Prof.] Horacio Arrigo:	https://www.kaggle.com/c/titanic/data
+00:59:42	Daniel Suli:	podrias hacer un mapa de calor de las correlaciones?
+01:00:03	Daniel Suli:	Gracias!
+01:00:08	[Prof.] Horacio Arrigo:	https://colab.research.google.com/drive/1qKso6MjLMDhasW-7WABSkat_U4Fjd-HC?usp=sharing
+01:08:12	Daniel Suli:	porq es pk
+01:08:15	Daniel Suli:	y no aporta
+01:10:18	Daniel Suli:	es ruido en el modelo
+01:12:56	Diego de Montmollin:	perfecto
+01:13:02	Daniel Suli:	pk y survived
+01:18:23	Daniel Suli:	puedo hacer una consulta?
+01:20:26	Diego de Montmollin:	perdón los tengo que dejar. que terminen bien
+01:27:14	Maria Bastit:	Bueno, muchas gracias!!!
+01:27:52	[Prof.] Horacio Arrigo:	https://www.kaggle.com/startupsci/titanic-data-science-solutions
+01:27:58	Johanna Faccone:	gracias!
+01:28:21	Daniel Suli:	Gracias!
